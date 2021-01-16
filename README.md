@@ -1,1 +1,2 @@
-# 24-class
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
